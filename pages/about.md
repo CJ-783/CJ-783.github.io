@@ -8,7 +8,7 @@ weight: 3
 # **About Me**
 
 Hi I am **{{ site.author.name }}** :wave:,<br>
-Someone who is curious passionate about technology and cybersecurity since young.  
+Someone who is curious and passionate about technology and cybersecurity since young.
 
 <!--<div class="row"> 
 {% include about/skills.html title="Programming Skills" source=site.data.programming-skills %}
