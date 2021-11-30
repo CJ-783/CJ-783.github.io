@@ -1,8 +1,7 @@
 ### Site Settings ###
 title               : CJ
-description         : >-
-                      Tech Nerd | Upcming CS Student
-
+description         : >
+                      Tech Nerd | Upcming CS Student.
                       The best investment you can make is in yourself.
                       
 baseurl             : ""                     # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
